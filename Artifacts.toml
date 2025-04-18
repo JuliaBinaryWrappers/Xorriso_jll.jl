@@ -1,0 +1,144 @@
+[[Xorriso]]
+arch = "aarch64"
+git-tree-sha1 = "3d7e2a5c27122894e86db67d4bf1750ab56edf2a"
+os = "macos"
+
+    [[Xorriso.download]]
+    sha256 = "1498f1fc6e26f946c24006b25b9b4527b9ac939347b57eb68483d2440fb88180"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.aarch64-apple-darwin.tar.gz"
+[[Xorriso]]
+arch = "aarch64"
+git-tree-sha1 = "a01fe8571a5949d0adec95c78e6ba77419cdc3ef"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "4982e89918bc9e17128af393dbc2538b89cb6e74b088c37d3afdea70db523d92"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.aarch64-linux-gnu.tar.gz"
+[[Xorriso]]
+arch = "aarch64"
+git-tree-sha1 = "23ec60ba227ede7cf79c55e49609d8afa4f5a59f"
+libc = "musl"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "784014752f418994348f711f1882cd17e56028ad53d5c0929956909a78354c41"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.aarch64-linux-musl.tar.gz"
+[[Xorriso]]
+arch = "aarch64"
+git-tree-sha1 = "4acb8e5d8215e5b00baed31fc19005da19a7bd77"
+os = "freebsd"
+
+    [[Xorriso.download]]
+    sha256 = "686cbcdadca25d42003df44e27c5929f05ddb04f646ca11a513a8217d61364c3"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.aarch64-unknown-freebsd.tar.gz"
+[[Xorriso]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e796d4924ad6da9c3055ba9eb8f0582f5c584587"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "5574f4394afe4c51fbd01843555f8734df822e523bd6ba755fba187839d64b79"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.armv6l-linux-gnueabihf.tar.gz"
+[[Xorriso]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "08d71682c982ba503deab39d39f36243d6975b87"
+libc = "musl"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "e8bb583a97aa17cf729fdb9282e0cdbccbcd973f49eea713d48b692da6af695e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.armv6l-linux-musleabihf.tar.gz"
+[[Xorriso]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "bb7ebdd76acb600e4169316c7420817aaab5bb52"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "871b8294ebce734f7521ba9f3a54698ebd02682896ab5567645389e849cd5923"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.armv7l-linux-gnueabihf.tar.gz"
+[[Xorriso]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a8a840a99c49185e1403c8e44b530f62262d8171"
+libc = "musl"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "25c02ff3c2effc18032aefaa9c4e4685b3f2305808efe4b2337e257e535d1542"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.armv7l-linux-musleabihf.tar.gz"
+[[Xorriso]]
+arch = "i686"
+git-tree-sha1 = "7795bdce5d017fc96a97caef9bf926f9107faf31"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "feab4a7a9cc9e9b650d128174e210daa7900e5db06c4d34b6fa15e304cdf6b70"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.i686-linux-gnu.tar.gz"
+[[Xorriso]]
+arch = "i686"
+git-tree-sha1 = "1b3dbf712617c478144767943cfe7f4d221fb31e"
+libc = "musl"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "f8d086d296b6513a5a2d2b0eba67a5961d2bcc8b9abc0dc2e2e90ca64c764b59"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.i686-linux-musl.tar.gz"
+[[Xorriso]]
+arch = "powerpc64le"
+git-tree-sha1 = "6e15be39455e78d8b5c837876e8f2443c1f12ef5"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "3d8795aeaea79cbc5dc6aaf8f70b07c9038178ea02ed2f789fbe50ba6814d538"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.powerpc64le-linux-gnu.tar.gz"
+[[Xorriso]]
+arch = "riscv64"
+git-tree-sha1 = "a945f087d28627d88ebcbde0089bf7695cb79a79"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "4c27dfdf4d8c40aad896719c38ba28432f73e9fc998369929828f5c5033e3ecc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.riscv64-linux-gnu.tar.gz"
+[[Xorriso]]
+arch = "x86_64"
+git-tree-sha1 = "f833e5d6ff89ce5be839d05245761a916a8a8800"
+os = "macos"
+
+    [[Xorriso.download]]
+    sha256 = "5052d0626327334a32edf8cebcf53c5512f1a41a0d0f3e8d687a5d706e54bf8e"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.x86_64-apple-darwin.tar.gz"
+[[Xorriso]]
+arch = "x86_64"
+git-tree-sha1 = "169bdd62b7e43e2e049272152c746b625c196620"
+libc = "glibc"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "8984ce6bdba7266ecabd722bf16023fe41b8c79927b379d7c7faa4d065485022"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.x86_64-linux-gnu.tar.gz"
+[[Xorriso]]
+arch = "x86_64"
+git-tree-sha1 = "5ca6785821951f7b78316262f6d7ac1d2a3f27fa"
+libc = "musl"
+os = "linux"
+
+    [[Xorriso.download]]
+    sha256 = "f56e9ef27cd9790abe1e112ffabb754afc3bf47dc7130bf93a9e2a98b1c674c2"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.x86_64-linux-musl.tar.gz"
+[[Xorriso]]
+arch = "x86_64"
+git-tree-sha1 = "e1cb9b0721a0d6b7de306d3322a04bafe2fe0723"
+os = "freebsd"
+
+    [[Xorriso.download]]
+    sha256 = "bffc95cc902103159aa8d1bd5d832b63fe36ed84a554e281f94d636641aa46ac"
+    url = "https://github.com/JuliaBinaryWrappers/Xorriso_jll.jl/releases/download/Xorriso-v1.5.6+0/Xorriso.v1.5.6.x86_64-unknown-freebsd.tar.gz"
